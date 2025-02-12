@@ -1,0 +1,7 @@
+opendatasets
+pandas
+matplotlib
+datetime
+numpy
+sklearn
+torch
